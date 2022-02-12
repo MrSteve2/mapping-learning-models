@@ -11,5 +11,5 @@ The
  2. To have a tool to refine and communicate how I think about learning
  
  # My Process
- Well my first approximation of the process is to create a Mural where I dump all my thoughts and then start linking them.
+ Well my first approximation of the process is to create a [Mural](https://app.mural.co/t/sargon8761/m/sargon8761/1644628262525/db09d6e09f76d557d8bb6f9a023cd78f804c7417?sender=u1411d2890e08b32e36db7900) where I dump all my thoughts and then start linking them.
  Then I plan to create wiki pages in this repo to provide more detailed notes and links to external resources.
